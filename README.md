@@ -7,4 +7,3 @@
 
 2. main.c
 
-<img src = "fig/main_c.png" width="320" height="50"/>
