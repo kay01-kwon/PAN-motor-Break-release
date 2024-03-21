@@ -7,4 +7,4 @@
 
 2. main.c
 
-<img src = "fig/main_c.png" width="640" height="480"/>
+<img src = "fig/main_c.png" width="320" height="240"/>
